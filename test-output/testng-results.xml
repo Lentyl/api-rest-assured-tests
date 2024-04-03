@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-03T22:02:22 CEST" name="Default Suite" finished-at="2024-04-03T22:02:28 CEST" duration-ms="5947">
+    <groups>
+    </groups>
+    <test started-at="2024-04-03T22:02:22 CEST" name="api-rest-assured-tests" finished-at="2024-04-03T22:02:28 CEST" duration-ms="5947">
+      <class name="RestTests">
+        <test-method signature="verifyCorrectGETRequest()[pri:0, instance:RestTests@35083305]" started-at="2024-04-03T22:02:23 CEST" name="verifyCorrectGETRequest" finished-at="2024-04-03T22:02:27 CEST" duration-ms="4064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectGETRequest -->
+        <test-method signature="verifyGETDrilldownsParameterRequest()[pri:0, instance:RestTests@35083305]" started-at="2024-04-03T22:02:27 CEST" name="verifyGETDrilldownsParameterRequest" finished-at="2024-04-03T22:02:27 CEST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGETDrilldownsParameterRequest -->
+        <test-method signature="verifyGETMeasuresParameterRequest()[pri:0, instance:RestTests@35083305]" started-at="2024-04-03T22:02:27 CEST" name="verifyGETMeasuresParameterRequest" finished-at="2024-04-03T22:02:27 CEST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGETMeasuresParameterRequest -->
+        <test-method signature="verifyPOSTRequest()[pri:0, instance:RestTests@35083305]" started-at="2024-04-03T22:02:27 CEST" name="verifyPOSTRequest" finished-at="2024-04-03T22:02:28 CEST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPOSTRequest -->
+        <test-method signature="verifyPUTRequest()[pri:0, instance:RestTests@35083305]" started-at="2024-04-03T22:02:28 CEST" name="verifyPUTRequest" finished-at="2024-04-03T22:02:28 CEST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPUTRequest -->
+      </class> <!-- RestTests -->
+    </test> <!-- api-rest-assured-tests -->
+  </suite> <!-- Default Suite -->
+</testng-results>
