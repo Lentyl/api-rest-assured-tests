@@ -1,4 +1,4 @@
-<h2>Mariusz Podgorski</h2>
+<h3>Mariusz Podgorski</h3>
 
 This project performs automatic sample tests on rest interface endpoint using JAVA, TestNG, Rest assure.
 
