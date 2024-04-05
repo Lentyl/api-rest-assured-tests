@@ -1,3 +1,5 @@
+<h2>Mariusz Podgorski</h2>
+
 This project performs automatic sample tests on rest interface endpoint using JAVA, TestNG, Rest assure.
 
 <h3>Prerequisites</h3>
